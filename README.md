@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=900&color=FFFFFF&width=600&lines=Hello+world!;Olá,+eu+sou+a+Isabelle!;Desenvolvedora+Full-Stack+em+formação)
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=900&color=f23393&width=600&lines=Hello+world!;Olá,+eu+sou+a+Isabelle!;Desenvolvedora+Full-Stack+em+formação)
 
 <p align="left">
   Desenvolvedora Full-Stack em formação, apaixonada por criar soluções digitais modernas, funcionais e impactantes. <br>
